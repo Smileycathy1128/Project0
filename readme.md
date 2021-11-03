@@ -13,6 +13,6 @@
 - [sqlite-jdbc-3.36.0.3.jar](https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc)
 
 ### SQL command line (optional):
-- sqlite3.exe (already included in folder) 
-  -  from "sqlite-tools-win32-x86-3360000.zip" at [this link](https://www.sqlite.org/download.html)
+- [sqlite3.exe](https://www.sqlite.org/download.html) (already included in folder) 
+  -  in "sqlite-tools-win32-x86-3360000.zip"
 - [DB Browser for SQLite](https://sqlitebrowser.org/dl/) (not included)
