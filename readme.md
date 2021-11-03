@@ -2,7 +2,7 @@
 ## Cathy Nguyen Project 0
 
 ### Main method:
-- Project0.main()
+- Project0.main() in Project0.java file
 
 ### SQL Database:
 - Project0.db
