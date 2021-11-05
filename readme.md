@@ -1,5 +1,6 @@
 # Project 0 assignment
 ## Cathy Nguyen Project 0
+Open Project0.code-workspace file or its folder in Visual Studio Code
 
 ### Main method:
 - Project0.main() in Project0.java file
